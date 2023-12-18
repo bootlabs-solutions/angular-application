@@ -5,7 +5,7 @@ It provides a baseline code base to help you kick start an Angular project.
 It has a complete development environment configured, including build, test and deploy scripts, routing, simple components, services, and directives as examples.
 
 ## Table of Contents
-## Changes in Readme
+
 
 - [Project structure](#project-structure)
 - [Available npm scripts](#available-npm-scripts)
